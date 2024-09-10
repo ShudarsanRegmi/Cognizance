@@ -11,7 +11,7 @@ S3CR3TK3Y@123456
 ```
 
 Alogorithm of first guess was Aes-128 as the keysize was 16 char long.
-So, AES in ECB mode was used to decipher the provided cipher to obtain the secret key
+So, AES in ECB mode was used to decipher the provided cipher to obtain the pdf password
 
 **cipher**
 ```
